@@ -17,3 +17,7 @@ Data Analyst aspiring to Data Scientist/Engineer. I build clean analyses and das
 
 ### Contact
 - [GitHub](https://github.com/Chandrika2914) · [LinkedIn](https://www.linkedin.com/in/chandrika-patibandla/)
+
+### Projects
+See more on the [Projects page](/projects/).
+
