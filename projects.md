@@ -8,8 +8,9 @@ permalink: /projects/
 
 ## COVID-19 SQL + Tableau
 - **Repo:** [GitHub Repo](https://github.com/Chandrika2914/COVID-Death-analysis-SQL)  
-- **Interactive Dashboard:** [Tableau Link](YOUR_TABLEAU_PUBLIC_LINK)  
+- **Interactive Dashboard:** [Tableau Link](https://public.tableau.com/shared/PF7WG76NQ?:display_count=n&:origin=viz_share_link)  
 - **Preview:**  
-  ![Dashboard Screenshot](https://raw.githubusercontent.com/Chandrika2914/COVID-Death-analysis-SQL/main/tableau/dashboard_screenshots/covid-death-percentage-dashboard.png)
+![Dashboard Screenshot](/assets/Covid-death-percentage-analysis-dashboard.png)
+
 
 *(More projects coming soon...)*
